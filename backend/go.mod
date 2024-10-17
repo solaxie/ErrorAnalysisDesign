@@ -1,6 +1,6 @@
 module swipe-mission
 
-go 1.23.2
+go 1.23
 
 require (
 	github.com/gocql/gocql v1.7.0 // indirect
